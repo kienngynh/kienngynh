@@ -8,7 +8,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Foxconn Technology<br>👯 I’m looking to collaborate on Test Developer
+🔭 I’m currently working on Foxconn Technology - Test Developer<br>
 
 
 # 💻 Tech Stack:
